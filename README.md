@@ -1,4 +1,4 @@
-#       Exploração de Dados nº 1        
+#       Exploração de Dados no R - Script nº 1        
 
 
 Análises estatisticas descritivas básicas no Dataframe
