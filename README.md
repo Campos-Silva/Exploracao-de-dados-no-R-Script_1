@@ -1,38 +1,29 @@
-#_____________________________        Exploração de Dados nº 1         ____________________________
+#       Exploração de Dados nº 1        
 
 
-#_______________     Análises estatisticas descritivas básicas no Dataframe     ___________________
+Análises estatisticas descritivas básicas no Dataframe
 
 
-
-#Descrição do projeto:
-
-
-# Nesse projeto fiz análises estatistica descritivas básicas em um dataset que contem dados de "Preços de vendas de carros usados".
+# Descrição:
 
 
-#Fonte dos dados: https://www.kaggle.com/ankits29/used-car-price-data
-
-#____________________________________________________________________________
-#____________________________________________________________________________
+Nesse projeto fiz análises estatistica descritivas básicas em um dataset que contem dados de "Preços de vendas de carros usados".
 
 
-###############################################################################
-###############################################################################
+Fonte dos dados: https://www.kaggle.com/ankits29/used-car-price-data
+
+# Objetivos do projeto:
 
 
-#__________________     Objetivos contidos no Projeto:
+1 - Identificar a dimensão do dataset (número de linhas e colunas);
 
+2 - Descrever a estrutura dos dados do dataset (tipos das variáveis);
 
-#  1 - Identificar a dimensão do datase (número de linhas e colunas);
-
-#  2 - Descrever a estrutura dos dados do dataset (tipos das variáveis);
-
-#  3 - Identificar se há ausencia de valores no dataset.
+3 - Identificar se há ausencia de valores no dataset.
 
 
 
-#No próximo projeto irei continuar as análises o qual irei focar nas análises exploratórias para cada variável.
+#Observação: no próximo projeto irei continuar as análises desse dataframe, o qual irei focar nas análises exploratórias para cada variável.
 
 
-#     Script desenvolvido por Lucas Andrei Campos-Silva
+*Script desenvolvido por Lucas Andrei Campos-Silva
