@@ -1,0 +1,1 @@
+# Explora-o-de-dados-no-R---An-lises-estatisticas-descrtivas-no-dataframe-Script_1-
