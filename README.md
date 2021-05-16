@@ -21,9 +21,11 @@ Fonte dos dados: https://www.kaggle.com/ankits29/used-car-price-data
 
 3 - Identificar se há ausencia de valores no dataset.
 
+# Pacotes utilizados no projeto
 
+ - visdat
 
 #Observação: no próximo projeto irei continuar as análises desse dataframe, o qual irei focar nas análises exploratórias para cada variável.
 
 
-*Script desenvolvido por Lucas Andrei Campos-Silva
+### Script desenvolvido por Lucas Andrei Campos-Silva
